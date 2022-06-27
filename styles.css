@@ -164,7 +164,7 @@ section .title::after{
 
 .skills-content h2{
 text-align: center;
-margin-top: 100px;
+margin: 100px;
 }
 
 #order{
