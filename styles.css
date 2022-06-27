@@ -163,6 +163,9 @@ text-align: center;
 margin: 10px;
 }
 
+#order{
+	vertical-align: middle;
+}
 
 .project-content h2{
 text-align: center;
