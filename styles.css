@@ -211,6 +211,11 @@ padding: 10px;
 }
 
 
+h2{
+	margin-top: 70px;
+	
+}
+
 .project-content img:hover .hacker{
 	bottom: 100px;
 }
